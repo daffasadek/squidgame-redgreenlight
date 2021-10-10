@@ -28,6 +28,8 @@ movement_persistent_counter = 0
 # LOOP!
 while True:
 
+#async:
+
     # red light green light system
     '''
     state = 'green_light'
